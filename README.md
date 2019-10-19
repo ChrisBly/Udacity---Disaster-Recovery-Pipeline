@@ -19,7 +19,9 @@ https://stackoverflow.com/questions/53105016/python-lambda-function-syntax-to-tr
 
 2: Machine Learning Pipeline
 
-## libraries
+
+
+## 1. Import libraries and load data from database
 - pandas as pd
 - numpy as np
 - import warnings
@@ -41,8 +43,22 @@ https://stackoverflow.com/questions/53105016/python-lambda-function-syntax-to-tr
 -  sklearn.model_selection import GridSearchCV
 -  pickle
 
-## Data
+## 1.1 load data from database
 combined.db
+
+2. Write a tokenization function to process your text data
+
+3. Build a machine learning pipeline
+
+## 3.1 Create pipeline with Classifier
+
+4 Train pipeline
+
+## 4.1 Split data into train and test sets
+## 4.2 Train pipeline
+
+5. Test your model
+
 
 ## Model
 train_classifier.py
