@@ -63,6 +63,11 @@ combined.db
 ## Model
 train_classifier.py
 
+#### Reference
+- https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74
+- https://stackoverflow.com/questions/47481874/how-to-get-the-column-name-when-iterating-through-dataframe-pandas
+- https://towardsdatascience.com/optimizing-hyperparameters-in-random-forest-classification-ec7741f9d3f6
+
 3: Flask App
 
 run.py
